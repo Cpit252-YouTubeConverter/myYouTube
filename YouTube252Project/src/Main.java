@@ -9,11 +9,11 @@ public class Main {
         System.out.print("Download video or audio? (v/a): ");
         String choice = scanner.nextLine();
 
-        YouTubeD downloader = YouTubeD.getInstance();
+        YoutubeDownloaderFacade facade = YoutubeDownloaderFacade.getInstance();
         if (choice.equals("v")) {
-            downloader.downloadVideo(url);
+            facade.downloadVideo(url);
         } else if (choice.equals("a")) {
-            downloader.downloadAudio(url);
+            facade.downloadAudio(url);
         } else {
             System.out.println("Invalid choice!");
         }
