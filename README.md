@@ -49,13 +49,12 @@ images from the program :
 
 the user will asked to enter the url
 
-![252_1](YouTube252Project/252_1.png.png)
+![252_1](YouTube252Project/252_1.png)
 
 after the user enter the url he will choose V for downloading video or A for downloading Audio 
 
-![252_2](YouTube252Project/252_2.png.png)
+![252_2](YouTube252Project/252_2.png)
 
-![252_3](YouTube252Project/252_3.png.png)
-
+![252_3](YouTube252Project/252_3.png)
 
 
