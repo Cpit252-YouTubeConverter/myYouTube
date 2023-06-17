@@ -49,7 +49,7 @@ images from the program :
 
 the user will asked to enter the url
 
-![a](252_1.png)
+![](Screenshot/252_1.png)
 
 after the user enter the url he will choose V for downloading video or A for downloading Audio 
 
