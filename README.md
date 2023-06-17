@@ -21,7 +21,7 @@ change the python environment directory url to your directory.
 Compile the Java source files by running the following command:
 
 javac *.java
-```
+
 Run the Main class by running the following command:
 java Main
 
@@ -56,5 +56,3 @@ after the user enter the url he will choose V for downloading video or A for dow
 ![](Screenshot/252_2.png)
 
 ![](Screenshot/252_3.png)
-
-
