@@ -53,8 +53,8 @@ the user will asked to enter the url
 
 after the user enter the url he will choose V for downloading video or A for downloading Audio 
 
-![252_2](252_2.png)
+![](Screenshot/252_2.png)
 
-![252_3](252_3.png)
+![](Screenshot/252_3.png)
 
 
