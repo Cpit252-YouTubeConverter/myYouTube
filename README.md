@@ -49,13 +49,13 @@ images from the program :
 
 the user will asked to enter the url
 
-![252_1](https://github.com/Cpit252-YouTubeConverter/myYouTube/assets/129393582/69d29fcc-7b25-4a42-b4ef-9ed3b7f7c6a0)
+![252_1](YouTube252Project/252_1.png.png)
 
-after the user will enter  the url he will choose V for downloading video or A for downloading Audio 
+after the user enter the url he will choose V for downloading video or A for downloading Audio 
 
-![252_2](https://github.com/Cpit252-YouTubeConverter/myYouTube/assets/129393582/757ca575-247e-49c2-900f-60db304b433d)
+![252_2](YouTube252Project/252_2.png.png)
 
-![252_3](https://github.com/Cpit252-YouTubeConverter/myYouTube/assets/129393582/69e12df6-36a2-4894-9ba2-2e1b676ad7fa)
+![252_3](YouTube252Project/252_3.png.png)
 
 
 
