@@ -42,7 +42,7 @@ javac -cp .:../junit-4.13.jar *.java && java -cp .:../junit-4.13.jar:../hamcrest
 
 Authors
 Waleed Mohammed Bamaqeen 2041189
-Fahad Hamad Alsifir 1743998
+Fahad Hamad Alsifri 1743998
 
 
 images from the program :
